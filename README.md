@@ -11,23 +11,40 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 ##### Bloco 1: Unix, Bash e Shell Script
 - [X] 1.3 - Fundamentos do Desenvolvimento Web
 - [X] 1.3 - Introdução - Unix & Shell
-- [x] 1.3 - Unix & Bash - Parte 1
-- [x] 1.4 - Unix & Bash - Parte 2
+- [X] 1.3 - Unix & Bash - Parte 1
+- [X] 1.4 - Unix & Bash - Parte 2
   
 ##### Bloco 2: Git & GitHub
 
-- [x] 2.1 - Git & GitHub - O que é e para que serve
-- [x] 2.2 - Git & GitHub - Entendendo os comandos
-- [x] 2.3 - Internet - Entendendo como ela funciona
+- [X] 2.1 - Git & GitHub - O que é e para que serve
+- [X] 2.2 - Git & GitHub - Entendendo os comandos
+- [X] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS
 
-- [ ] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [X] 3.1 - Introdução - HTML & CSS
+- [X] 3.1 - HTML & CSS - Estruturas de página
+- [X] 3.2 - HTML & CSS - Primeiros passos em CSS
+- [X] 3.3 - HTML & CSS - Seletores e posicionamento
+- [X] 3.4 - HTML Semântico
+- [X] 3.5 - Projeto - Lessons Learned
 
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+- [ ] 4.1 - Introdução - JavaScript
+- [ ] 4.1 - JavaScript - Primeiros passos
+- [ ] 4.2 - JavaScript - Array e loop For
+- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [ ] 4.4 - JavaScript - Objetos e funções
+- [ ] 4.5 - Projeto - Playground Functions
 
-[etc...]
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+- [ ] 5.1 - JavaScript - DOM e seletores
+- [ ] 5.2 - JavaScript - Trabalhando com elementos
+- [ ] 5.3 - JavaScript - Eventos
+- [ ] 5.4 - JavaScript - Web Storage
+- [ ] 5.5 - Fundamentos - JavaScript - Projetos
+- [ ] 5.5 - Projeto - Arte com Pixels
+- [ ] 5.6 - Projeto - Lista de tarefas
+- [ ] 5.7 - (Bônus) Projeto - Meme Generator
+- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
