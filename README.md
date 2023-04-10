@@ -30,12 +30,12 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 - [X] 3.5 - Projeto - Lessons Learned
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [X] 4.1 - Introdução - JavaScript
+- [X] 4.1 - JavaScript - Primeiros passos
+- [X] 4.2 - JavaScript - Array e loop For
+- [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [X] 4.4 - JavaScript - Objetos e funções
+- [X] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [ ] 5.1 - JavaScript - DOM e seletores
@@ -44,7 +44,4 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
 - [ ] 5.5 - Projeto - Arte com Pixels
-- [ ] 5.6 - Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [ ] 5.6 - Projeto - Bonus
