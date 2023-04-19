@@ -45,7 +45,7 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 - [X] 5.5 - Fundamentos - JavaScript - Projetos
 - [X] 5.5 - Projeto - Arte com Pixels
 
-##### Seção 6: [HTML e CSS: Forms, Flexbox e Responsivo]
+##### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 6.1 - HTML & CSS - Forms
 - [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
@@ -54,13 +54,13 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - Página inicial do Facebook
 
-##### Seção 7: [Introdução à JavaScript ES6 e Testes Unitários]
+##### Seção 7: Introdução à JavaScript ES6 e Testes Unitários
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
 
-##### Seção 8: [Higher Order Functions do JavaScript ES6]
+##### Seção 8: Higher Order Functions do JavaScript ES6
 - [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
