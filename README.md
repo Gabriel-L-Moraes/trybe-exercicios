@@ -48,14 +48,14 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 ##### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 6.1 - HTML & CSS - Forms
 - [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
-- [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Página inicial do Facebook
+- [X] 6.3 - Introdução - CSS Flexbox
+- [X] 6.3 - CSS Flexbox - Parte 1
+- [X] 6.4 - CSS Flexbox - Parte 2
+- [X] 6.5 - CSS Responsivo - Mobile First
+- [X] 6.6 - Projeto - Trybewarts
 
-##### Seção 7: Introdução à JavaScript ES6 e Testes Unitários
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
+##### Seção 7: JavaScript ES6 e Testes Unitários
+- [X] 7.1 - JavaScript ES6 - Try/catch Finally
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Testes unitários em JavaScript
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
