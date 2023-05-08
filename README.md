@@ -56,12 +56,12 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 
 ##### Seção 7: JavaScript ES6 e Testes Unitários
 - [X] 7.1 - JavaScript ES6 - Try/catch Finally
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+- [X] 7.2 - JavaScript ES6 - Objects
+- [X] 7.3 - Testes unitários em JavaScript
+- [X] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Seção 8: Higher Order Functions do JavaScript ES6
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
