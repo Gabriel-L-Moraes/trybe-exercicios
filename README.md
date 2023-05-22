@@ -62,7 +62,26 @@ _O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda 
 
 ##### Seção 8: Higher Order Functions do JavaScript ES6
 - [X] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
+- [X] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+- [X] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [X] 8.5 - Projeto - Zoo functions
+
+## Desenvolvimento Front-end :heavy_check_mark:
+
+##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
+- [X] 1.1 - Ambiente de desenvolvimento
+- [X] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [] 1.3 - Prático - Caso de Câmbio
+- [] 1.4 - Async, await e testes assíncronos
+- [] 1.5 - Projeto - iChoveu
+
+##### Seção 2: Introdução ao React
+- [] 2.1 - Introdução ao React e ao Typescript
+- [] 2.2 - Componentes React e Props
+- [] 2.3 - Avançando em componentes
+- [] 2.4 - Prática - Solar System
+- [] 2.5 - Estados e eventos
+- [] 2.6 - Formulários
+- [] 2.7 - Prática - Store Back Office
+- [] 2.8 - Projeto - Password Manager
